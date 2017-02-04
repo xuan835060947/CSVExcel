@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/meizu/project/clean_project/CSVExcel/app/src/main/res/values/color.xml -->
+    <eat-comment/>
+    <color name="edit_bar">#d9d9d9</color>
+    <color name="white">#ffffff</color>
+    <!-- From: file:/Users/meizu/project/clean_project/CSVExcel/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/Users/meizu/project/clean_project/CSVExcel/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">CSVExcel</string>
+    <string name="file_not_exist">文件不存在</string>
+    <string name="file_read_error">文件读取失败</string>
+    <string name="filter">筛选</string>
+    <string name="filter_cancel">取消筛选</string>
+    <string name="mult_choice">多选</string>
+    <string name="open_default_file">打开默认文件</string>
+    <string name="open_file">打开文件</string>
+    <string name="opening_file">正在打开文件</string>
+    <string name="single_choice">单选</string>
+    <string name="sure">确定</string>
+    <!-- From: file:/Users/meizu/project/clean_project/CSVExcel/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="switch_style">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        <item name="android:textSize">18sp</item>
+    </style>
+</resources>
